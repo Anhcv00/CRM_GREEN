@@ -1,0 +1,3 @@
+[submodule "backend-green"]
+    path = backend-green
+    url = https://github.com/Anhcv00/CRM_GREEN
