@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [
+    {
+      "id": 0,
+      "name": "Inactive"
+    },
+    {
+      "id": 1,
+      "name": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Pending"
+    },
+    {
+      "id": 3,
+      "name": "Suspended"
+    }
+  ]
+}
